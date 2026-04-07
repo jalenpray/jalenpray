@@ -6,4 +6,5 @@
  
   - [osTicket: Prerequisites and Installation](https://github.com/jalenpray/osticket-prereqs)
   - [osTicket: Post-Installation and Configuration](https://github.com/jalenpray/post-install-config)
+  - [osTicket: Ticket Lifestyle Examples](https://github.com/jalenpray/ticket-lifestyle)
 
