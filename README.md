@@ -6,13 +6,5 @@
  
 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jalenpray/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Jalen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/Josh
