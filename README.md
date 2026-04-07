@@ -5,6 +5,5 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
  
   - [osTicket: Prerequisites and Installation](https://github.com/jalenpray/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jalenpray/ticket-lifecycle)
-
+  - [osTicket: Post-Installation and Configuration](https://github.com/jalenpray/post-install-config)
 
