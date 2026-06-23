@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jalenpray/osticket-prereqs)
  
 - <b>Microsoft Azure</b>
-  - Deploying and Managing Active Directory in Microsoft Azure
+  - Deploying and Managing Active Directory in Microsoft Azure(https://github.com/jalenpray/Deploying-and-Managing-Active-Directory-in-Microsoft-Azure)
 
 <h2>🤳Connect with me:</h2>
 
