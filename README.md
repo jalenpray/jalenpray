@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jalen, an <a href="https://linkedin.com/in/Jalen">IT Professional</a>:grin:</h1>
+<h1>Hi, I'm Jalen, an <a href="[https://linkedin.com/in/Jalen](https://www.linkedin.com/in/jalen-izaiah-pray-b4b611251)">IT Professional</a>:grin:</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
